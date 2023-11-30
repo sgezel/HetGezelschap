@@ -8,4 +8,4 @@
 - Web:
 	- https://192.168.1.9
 
-**Doel:**: Dataopslag
+**Doel:** Dataopslag

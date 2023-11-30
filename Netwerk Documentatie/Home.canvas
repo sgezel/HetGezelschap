@@ -1,14 +1,15 @@
 {
 	"nodes":[
-		{"id":"3ca07fc15aafc19e","type":"text","text":"# Netwerk Het Gezelschap\n\n[[1.Algemeen overzicht netwerk]]","x":-1420,"y":-2160,"width":458,"height":140,"color":"4"},
-		{"id":"1d3a386f40853bff","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md","x":-1480,"y":-1940,"width":380,"height":180},
-		{"id":"c56d2a44838d3354","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md","x":-1162,"y":-1620,"width":404,"height":440,"color":"2"},
-		{"id":"f758214621c4403a","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md","x":-1162,"y":-940,"width":400,"height":400,"color":"2"},
-		{"id":"7b0f759bf1f9d04d","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md","x":-762,"y":-1940,"width":310,"height":180},
-		{"id":"fdab4f4f40ff3bac","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md","x":-720,"y":-940,"width":400,"height":400,"color":"2"},
-		{"id":"4c310272b1064ead","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md","x":-280,"y":-940,"width":400,"height":400,"color":"3"},
-		{"id":"57d87210e7ecefbb","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md","x":160,"y":-940,"width":400,"height":400,"color":"3"},
-		{"id":"ce164b903c950d46","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md","x":-520,"y":-1320,"width":400,"height":140}
+		{"id":"1576a1d5691f70a5","type":"group","x":-1060,"y":-2020,"width":1802,"height":1500,"label":"Serverkot"},
+		{"id":"f758214621c4403a","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md","x":-1000,"y":-940,"width":400,"height":400,"color":"2"},
+		{"id":"fdab4f4f40ff3bac","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md","x":-558,"y":-940,"width":400,"height":400,"color":"2"},
+		{"id":"4c310272b1064ead","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md","x":-118,"y":-940,"width":400,"height":400,"color":"3"},
+		{"id":"57d87210e7ecefbb","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md","x":322,"y":-940,"width":400,"height":400,"color":"3"},
+		{"id":"7b0f759bf1f9d04d","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md","x":-600,"y":-1940,"width":310,"height":180},
+		{"id":"c56d2a44838d3354","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md","x":-1000,"y":-1620,"width":404,"height":440,"color":"2"},
+		{"id":"ce164b903c950d46","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md","x":-358,"y":-1320,"width":400,"height":140},
+		{"id":"3ca07fc15aafc19e","type":"text","text":"# Netwerk Het Gezelschap\n\n[[1.Algemeen overzicht netwerk]]","x":-1558,"y":-2480,"width":458,"height":420,"color":"4"},
+		{"id":"1d3a386f40853bff","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md","x":-1519,"y":-1940,"width":380,"height":180}
 	],
 	"edges":[
 		{"id":"ce1a2b6c43c76ca1","fromNode":"3ca07fc15aafc19e","fromSide":"bottom","toNode":"1d3a386f40853bff","toSide":"top"},

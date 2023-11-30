@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "849d9f68d4e1b402",
+        "id": "a3af432382c3eb3c",
         "type": "tabs",
         "children": [
           {
-            "id": "7808cbbcdafb5c83",
+            "id": "abdf45f283981d04",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Netwerk Documentatie/Home.canvas",
                 "viewState": {
-                  "x": -256.99790427982043,
-                  "y": -1290.4285526578324,
-                  "zoom": -1
+                  "x": -183.43412737913667,
+                  "y": -1301.5291733928725,
+                  "zoom": -0.8429626734136606
                 }
               }
             }
@@ -152,19 +152,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7808cbbcdafb5c83",
+  "active": "abdf45f283981d04",
   "lastOpenFiles": [
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md",
-    "Netwerk Documentatie/Home.canvas",
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
+    "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md",
-    "Netwerk Documentatie/Applicaties",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md",
-    "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Ubiquity.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Proxy.md",
     "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md",
+    "Netwerk Documentatie/Home.canvas",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers",
+    "Netwerk Documentatie/Applicaties",
     "Kanban/Netwerk aanpassingen.md",
     "Kanban/Templates/Kanban Notes.md",
     "Netwerk Documentatie/Netwerk onderdelen/Gemeenschap",
@@ -177,7 +180,6 @@
     "Netwerk Documentatie/Netwerk onderdelen",
     "Netwerk Documentatie",
     "Todos/Kanban Notes/Dit is een test.md",
-    "Kanban/Kanban Notes",
     "Attachements/Diagram 1.svg",
     "Attachements/Diagram.svg"
   ]

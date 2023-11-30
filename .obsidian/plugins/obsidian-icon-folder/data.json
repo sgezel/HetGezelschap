@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#707070",
     "recentlyUsedIcons": [
-      "SiQnap",
-      "SiWindows10",
-      "SiUnraid",
-      "FasNetworkWired",
-      "SiProxmox"
+      "SiCaddy",
+      "SiUbiquiti",
+      "GeQnap",
+      "FasHouse",
+      "SiQnap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,9 @@
   "Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md": "FasNetworkWired",
   "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md": "SiUnraid",
   "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md": "SiWindows10",
-  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md": "SiQnap"
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md": "SiQnap",
+  "Netwerk Documentatie/Home.canvas": "FasHouse",
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md": "GeQnap",
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Ubiquity.md": "SiUbiquiti",
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Proxy.md": "SiCaddy"
 }
