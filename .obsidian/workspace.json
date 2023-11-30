@@ -4,52 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "559041f84309fdbf",
-        "type": "split",
+        "id": "1a5022639588035c",
+        "type": "tabs",
         "children": [
           {
-            "id": "1a5022639588035c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d9711ed2e478ba09",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "b88f794011f73463",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Overzicht netwerk.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "b88f794011f73463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overzicht netwerk.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "7b201e13ae240fac",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "709d44ac69238ce3",
-                "type": "leaf",
-                "state": {
-                  "type": "diagrams-net",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b88f794011f73463",
+  "active": "349b69a9b6e2c690",
   "lastOpenFiles": [
+    "Todos/Templates/Kanban Notes.md",
+    "Todos/Netwerk aanpassingen.md",
+    "Todos/Kanban Notes/Dit is een test.md",
+    "Todos/Kanban Notes",
+    "Todos/Templates",
+    "Overzicht netwerk.md",
+    "Todos",
     "Attachements/Diagram 1.svg.xml",
     "Attachements/Diagram 1.svg",
-    "Attachements/Diagram.svg.xml",
     "Attachements/Diagram.svg",
     "Attachements",
-    "Overzicht netwerk.md"
+    "Attachements/Diagram.svg.xml"
   ]
 }
