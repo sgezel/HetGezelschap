@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overzicht netwerk.md",
+                "file": "Algemeen overzicht netwerk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overzicht netwerk.md",
+                "file": "Algemeen overzicht netwerk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overzicht netwerk.md",
+                "file": "Algemeen overzicht netwerk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overzicht netwerk.md"
+                "file": "Algemeen overzicht netwerk.md"
               }
             }
           }
@@ -147,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "349b69a9b6e2c690",
+  "active": "b88f794011f73463",
   "lastOpenFiles": [
-    "Todos/Templates/Kanban Notes.md",
     "Todos/Netwerk aanpassingen.md",
+    "Algemeen overzicht netwerk.md",
+    "Todos/Templates/Kanban Notes.md",
     "Todos/Kanban Notes/Dit is een test.md",
     "Todos/Kanban Notes",
     "Todos/Templates",
-    "Overzicht netwerk.md",
     "Todos",
     "Attachements/Diagram 1.svg.xml",
     "Attachements/Diagram 1.svg",
