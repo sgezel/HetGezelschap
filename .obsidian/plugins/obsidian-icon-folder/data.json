@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#707070",
     "recentlyUsedIcons": [
+      "SiPfsense",
       "SiCaddy",
       "SiUbiquiti",
       "GeQnap",
-      "FasHouse",
-      "SiQnap"
+      "FasHouse"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,6 @@
   "Netwerk Documentatie/Home.canvas": "FasHouse",
   "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md": "GeQnap",
   "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Ubiquity.md": "SiUbiquiti",
-  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Proxy.md": "SiCaddy"
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Proxy.md": "SiCaddy",
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/PfSense.md": "SiPfsense"
 }
