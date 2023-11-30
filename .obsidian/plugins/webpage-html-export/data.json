@@ -29,8 +29,16 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "",
+  "exportPath": "C:\\personal\\Obsidian\\Website",
   "filesToExport": [
-    []
+    [
+      "Kanban/Templates/Kanban Notes.md",
+      "Kanban/Netwerk aanpassingen.md",
+      "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md",
+      "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
+      "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
+      "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
+      "Netwerk Documentatie/Home.canvas"
+    ]
   ]
 }

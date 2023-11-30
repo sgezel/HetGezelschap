@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": "#707070",
     "recentlyUsedIcons": [
+      "SiWindows10",
+      "SiUnraid",
       "FasNetworkWired",
       "SiProxmox"
     ],
@@ -24,5 +26,8 @@
     "iconsInNotesEnabled": true
   },
   "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md": "SiProxmox",
-  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md": "FasNetworkWired"
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md": "FasNetworkWired",
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md": "FasNetworkWired",
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md": "SiUnraid",
+  "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md": "SiWindows10"
 }

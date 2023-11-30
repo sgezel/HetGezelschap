@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f505b16eae06c5",
+        "id": "849d9f68d4e1b402",
         "type": "tabs",
         "children": [
           {
-            "id": "03568c6d9982cca8",
+            "id": "7808cbbcdafb5c83",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Netwerk Documentatie/Home.canvas",
-                "viewState": {
-                  "x": -758,
-                  "y": -1922,
-                  "zoom": 0
-                }
+                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netwerk Documentatie/Home.canvas",
+                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netwerk Documentatie/Home.canvas",
+                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netwerk Documentatie/Home.canvas"
+                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md"
               }
             }
           }
@@ -152,27 +149,31 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "03568c6d9982cca8",
+  "active": "7808cbbcdafb5c83",
   "lastOpenFiles": [
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
     "Netwerk Documentatie/Home.canvas",
+    "Netwerk Documentatie/Applicaties",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md",
+    "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md",
+    "Kanban/Netwerk aanpassingen.md",
+    "Kanban/Templates/Kanban Notes.md",
     "Netwerk Documentatie/Netwerk onderdelen/Gemeenschap",
     "Netwerk Documentatie/Netwerk onderdelen/Bompsi en Fodske",
     "Netwerk Documentatie/Netwerk onderdelen/Hanna en Maarten",
     "Netwerk Documentatie/Netwerk onderdelen/Kelly en Tessy",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot",
     "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen",
-    "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
-    "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md",
     "Untitled.md",
     "Netwerk Documentatie/Netwerk onderdelen",
     "Netwerk Documentatie",
-    "Kanban/Netwerk aanpassingen.md",
-    "Kanban/Templates/Kanban Notes.md",
     "Todos/Kanban Notes/Dit is een test.md",
     "Kanban/Kanban Notes",
-    "Kanban/Templates",
     "Attachements/Diagram 1.svg",
     "Attachements/Diagram.svg"
   ]

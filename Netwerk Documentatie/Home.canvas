@@ -2,12 +2,19 @@
 	"nodes":[
 		{"id":"3ca07fc15aafc19e","type":"text","text":"Netwerk Het Gezelschap\n\n[[1.Algemeen overzicht netwerk]]","x":-1420,"y":-2120,"width":260,"height":100},
 		{"id":"1d3a386f40853bff","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md","x":-1480,"y":-1940,"width":380,"height":180},
-		{"id":"c56d2a44838d3354","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md","x":-960,"y":-1700,"width":404,"height":300},
-		{"id":"7b0f759bf1f9d04d","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md","x":-913,"y":-1940,"width":310,"height":180}
+		{"id":"c56d2a44838d3354","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md","x":-1162,"y":-1620,"width":404,"height":440,"color":"2"},
+		{"id":"ce164b903c950d46","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md","x":-600,"y":-1200,"width":400,"height":140},
+		{"id":"f758214621c4403a","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md","x":-1162,"y":-940,"width":400,"height":400,"color":"2"},
+		{"id":"7b0f759bf1f9d04d","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md","x":-762,"y":-1940,"width":310,"height":180},
+		{"id":"fdab4f4f40ff3bac","x":-652,"y":-940,"width":400,"height":400,"color":"2","type":"file","file":"Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md"}
 	],
 	"edges":[
 		{"id":"ce1a2b6c43c76ca1","fromNode":"3ca07fc15aafc19e","fromSide":"bottom","toNode":"1d3a386f40853bff","toSide":"top"},
 		{"id":"80e1c4652c39ef18","fromNode":"1d3a386f40853bff","fromSide":"right","toNode":"7b0f759bf1f9d04d","toSide":"left","label":"Cat6"},
-		{"id":"266e6decd37a5edd","fromNode":"7b0f759bf1f9d04d","fromSide":"bottom","toNode":"c56d2a44838d3354","toSide":"top"}
+		{"id":"266e6decd37a5edd","fromNode":"7b0f759bf1f9d04d","fromSide":"bottom","toNode":"c56d2a44838d3354","toSide":"top","label":"192.168.0.X"},
+		{"id":"831fd354dba7a62a","fromNode":"c56d2a44838d3354","fromSide":"bottom","toNode":"ce164b903c950d46","toSide":"left","label":"192.168.1.x"},
+		{"id":"3d1d4ab57feb8b06","fromNode":"ce164b903c950d46","fromSide":"top","toNode":"7b0f759bf1f9d04d","toSide":"right","label":"Een kabel voor elk huis + gemeenschap"},
+		{"id":"6e238559a91ad868","fromNode":"ce164b903c950d46","fromSide":"bottom","toNode":"f758214621c4403a","toSide":"top"},
+		{"id":"8102d300b62d0fdc","fromNode":"ce164b903c950d46","fromSide":"bottom","toNode":"fdab4f4f40ff3bac","toSide":"top"}
 	]
 }
