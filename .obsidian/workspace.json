@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5022639588035c",
+        "id": "d4f505b16eae06c5",
         "type": "tabs",
         "children": [
           {
-            "id": "b88f794011f73463",
+            "id": "03568c6d9982cca8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Algemeen overzicht netwerk.md",
-                "mode": "source",
-                "source": false
+                "file": "Netwerk Documentatie/Home.canvas",
+                "viewState": {
+                  "x": -760,
+                  "y": -1857.4591194968555,
+                  "zoom": -0.021017781269083144
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algemeen overzicht netwerk.md",
+                "file": "Netwerk Documentatie/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algemeen overzicht netwerk.md",
+                "file": "Netwerk Documentatie/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algemeen overzicht netwerk.md"
+                "file": "Netwerk Documentatie/Home.canvas"
               }
             }
           }
@@ -138,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -147,19 +151,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b88f794011f73463",
+  "active": "03568c6d9982cca8",
   "lastOpenFiles": [
-    "Todos/Netwerk aanpassingen.md",
-    "Algemeen overzicht netwerk.md",
-    "Todos/Templates/Kanban Notes.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
+    "Netwerk Documentatie/Home.canvas",
+    "Netwerk Documentatie/Netwerk onderdelen/Gemeenschap",
+    "Netwerk Documentatie/Netwerk onderdelen/Bompsi en Fodske",
+    "Netwerk Documentatie/Netwerk onderdelen/Hanna en Maarten",
+    "Netwerk Documentatie/Netwerk onderdelen/Kelly en Tessy",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot",
+    "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen",
+    "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md",
+    "Untitled.md",
+    "Netwerk Documentatie/Netwerk onderdelen",
+    "Netwerk Documentatie",
+    "Kanban/Netwerk aanpassingen.md",
+    "Kanban/Templates/Kanban Notes.md",
     "Todos/Kanban Notes/Dit is een test.md",
-    "Todos/Kanban Notes",
-    "Todos/Templates",
-    "Todos",
-    "Attachements/Diagram 1.svg.xml",
+    "Kanban/Kanban Notes",
+    "Kanban/Templates",
     "Attachements/Diagram 1.svg",
-    "Attachements/Diagram.svg",
-    "Attachements",
-    "Attachements/Diagram.svg.xml"
+    "Attachements/Diagram.svg"
   ]
 }
