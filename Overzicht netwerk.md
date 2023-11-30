@@ -1,2 +1,2 @@
 
-Dit is een test.
+![[Attachements/Diagram 1.svg]]
