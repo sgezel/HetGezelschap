@@ -15,9 +15,9 @@
               "state": {
                 "file": "Netwerk Documentatie/Home.canvas",
                 "viewState": {
-                  "x": -760,
-                  "y": -1857.4591194968555,
-                  "zoom": -0.021017781269083144
+                  "x": -758,
+                  "y": -1922,
+                  "zoom": 0
                 }
               }
             }
@@ -148,14 +148,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "03568c6d9982cca8",
   "lastOpenFiles": [
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
     "Netwerk Documentatie/Home.canvas",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
     "Netwerk Documentatie/Netwerk onderdelen/Gemeenschap",
     "Netwerk Documentatie/Netwerk onderdelen/Bompsi en Fodske",
     "Netwerk Documentatie/Netwerk onderdelen/Hanna en Maarten",
