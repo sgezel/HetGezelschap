@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a3af432382c3eb3c",
+        "id": "1a5022639588035c",
         "type": "tabs",
         "children": [
           {
-            "id": "abdf45f283981d04",
+            "id": "d9711ed2e478ba09",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Netwerk Documentatie/Home.canvas",
                 "viewState": {
-                  "x": -183.43412737913667,
-                  "y": -1301.5291733928725,
-                  "zoom": -0.8429626734136606
+                  "x": -793.0613479779194,
+                  "y": -1556.1230141874576,
+                  "zoom": 0.15418362408264363
                 }
               }
             }
@@ -141,45 +141,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "abdf45f283981d04",
+  "active": "d9711ed2e478ba09",
   "lastOpenFiles": [
-    "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
+    "Overzicht netwerk.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Ubiquity.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Proxy.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Patch panel.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/24 Poort switch.md",
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Ubiquity.md",
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers/Proxy.md",
     "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen/Internet Orange.md",
-    "Netwerk Documentatie/Home.canvas",
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Virtuele Servers",
-    "Netwerk Documentatie/Applicaties",
-    "Kanban/Netwerk aanpassingen.md",
-    "Kanban/Templates/Kanban Notes.md",
-    "Netwerk Documentatie/Netwerk onderdelen/Gemeenschap",
-    "Netwerk Documentatie/Netwerk onderdelen/Bompsi en Fodske",
-    "Netwerk Documentatie/Netwerk onderdelen/Hanna en Maarten",
-    "Netwerk Documentatie/Netwerk onderdelen/Kelly en Tessy",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot",
     "Netwerk Documentatie/Netwerk onderdelen/Sandor en Katleen",
-    "Untitled.md",
     "Netwerk Documentatie/Netwerk onderdelen",
+    "Netwerk Documentatie/Home.canvas",
+    "Netwerk Documentatie/1.Algemeen overzicht netwerk.md",
     "Netwerk Documentatie",
-    "Todos/Kanban Notes/Dit is een test.md",
+    "Kanban/Templates/Kanban Notes.md",
+    "Kanban/Templates",
+    "Kanban/Netwerk aanpassingen.md",
+    "Kanban",
+    "Todos/Templates/Kanban Notes.md",
+    "Todos/Templates",
+    "Todos/Netwerk aanpassingen.md",
+    "Todos",
+    "Attachements/Diagram 1.svg.xml",
     "Attachements/Diagram 1.svg",
     "Attachements/Diagram.svg"
   ]
