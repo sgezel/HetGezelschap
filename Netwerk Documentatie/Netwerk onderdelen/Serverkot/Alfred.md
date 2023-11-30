@@ -10,4 +10,4 @@
 	- https://192.168.1.7:8006
 	- https://192.168.0.133:8006
 	- 
-**Doel:**
+**Doel:** Host voor virtuele servers

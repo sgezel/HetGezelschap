@@ -6,4 +6,4 @@
 **Verbinden via:**
 - RDP
 
-**Doel:**
+**Doel:** JellyFin media server + Komga

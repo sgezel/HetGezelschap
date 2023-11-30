@@ -11,11 +11,14 @@
             "id": "7808cbbcdafb5c83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
-                "mode": "source",
-                "source": false
+                "file": "Netwerk Documentatie/Home.canvas",
+                "viewState": {
+                  "x": -256.99790427982043,
+                  "y": -1290.4285526578324,
+                  "zoom": -1
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
+                "file": "Netwerk Documentatie/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
+                "file": "Netwerk Documentatie/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md"
+                "file": "Netwerk Documentatie/Home.canvas"
               }
             }
           }
@@ -151,9 +154,10 @@
   },
   "active": "7808cbbcdafb5c83",
   "lastOpenFiles": [
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md",
-    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Viene.md",
     "Netwerk Documentatie/Home.canvas",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Midas.md",
+    "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Weinstein.md",
     "Netwerk Documentatie/Applicaties",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Anna.md",
     "Netwerk Documentatie/Netwerk onderdelen/Serverkot/Alfred.md",
